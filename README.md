@@ -16,5 +16,8 @@ You may download this and place it inside `/src` folder. (if there is no `src` f
 Also you need to activate this bundle by adding 
 `new NamespaceName\MyLocalBundle\NamespaceNameMyLocalBundle(),` to the `AppKernel.php`
 
+
+![Screenshot](FileStructure.png)
+
 Oh! I need to mention this: I've copied and adapted this mostly from http://easysolutionsit.de/artikel/contao-4-erweiterung-als-bundle.html
 
