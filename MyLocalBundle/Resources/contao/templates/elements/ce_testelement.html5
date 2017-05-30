@@ -1,0 +1,4 @@
+/** Output from your local bundle **/
+<div class="testelement">
+    <?php echo $this->content; ?>
+</div>
